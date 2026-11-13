@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "ingredient": "#minecraft:coals",
+  "result": { "id": "xcraftablefeather:tar_clump" },
+  "experience": 0.05,
+  "cookingtime": 100
+}

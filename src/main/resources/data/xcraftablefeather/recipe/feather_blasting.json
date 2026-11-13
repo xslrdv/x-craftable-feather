@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "xcraftablefeather:feather_blank",
+  "result": { "id": "minecraft:feather" },
+  "experience": 0.1,
+  "cookingtime": 100
+}

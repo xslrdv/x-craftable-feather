@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "xcraftablefeather:item/cane_fibers"
+  }
+}
