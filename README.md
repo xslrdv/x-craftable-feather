@@ -1,4 +1,4 @@
-# 💣 X Craftable Feather
+# 🪶 X Craftable Feather
 
 A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and balanced full crafting cycle for a **Feather Blank**. Shred *Sugar Cane* with *Shears* into **Cane Fibers**, extract a **Tar Clump** by smelting *Coal*, assemble a **Feather Blank**, and smelt it into a vanilla *Feather* - all without *harming* a single *animal*.
 
