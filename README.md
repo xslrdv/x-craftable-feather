@@ -9,11 +9,11 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that adds a logical and ba
 * **Cane Fibers Extraction**
   * Combine *Sugar Cane* with *Shears* in a crafting grid to shred it into **Cane Fibers**.
 * **Tar Clump Extraction**
-  * Smelt *Coal* (or *Charcoal*) in a **Furnace**, **Blast Furnace**, or **Smoker** to extract a **Tar Clump**.
+  * Smelt *Coal* (or *Charcoal*) in a *Furnace*, *Blast Furnace*, or *Smoker* to extract a **Tar Clump**.
 * **Feather Blank**
   * Assemble a **Feather Blank** by combining *Sugar Cane*, **Cane Fibers**, and a **Tar Clump**.
 * **Curing & Smelting** to **Vanilla Feather**
-  * Process a **Feather Blank** in a **Furnace**, **Blast Furnace**, **Smoker**, or over a **Campfire** to produce a standard vanilla **Feather**.
+  * Process a **Feather Blank** in a *Furnace*, *Blast Furnace*, *Smoker*, or over a *Campfire* to produce a standard vanilla *Feather*.
 
 ---
 
