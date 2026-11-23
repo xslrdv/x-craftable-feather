@@ -3,6 +3,6 @@
   "category": "misc",
   "ingredient": "#minecraft:coals",
   "result": { "id": "xcraftablefeather:tar_clump" },
-  "experience": 0.05,
+  "experience": 0.1,
   "cookingtime": 100
 }

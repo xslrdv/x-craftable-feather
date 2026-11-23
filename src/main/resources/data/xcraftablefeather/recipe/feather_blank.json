@@ -3,9 +3,11 @@
   "category": "misc",
   "ingredients": [
     "xcraftablefeather:cane_fibers",
-    "xcraftablefeather:cane_fibers",
     "xcraftablefeather:tar_clump",
     "minecraft:sugar_cane"
   ],
-  "result": { "id": "xcraftablefeather:feather_blank", "count": 1 }
+  "result": {
+    "id": "xcraftablefeather:feather_blank",
+    "count": 1
+  }
 }

@@ -1,7 +1,7 @@
 package com.xslrdv.xcraftablefeather.registry;
 
 import com.xslrdv.xcraftablefeather.XCraftableFeather;
-import com.xslrdv.xcraftablefeather.recipe.CaneFibersRecipe;
+import com.xslrdv.xcraftablefeather.recipe.ToolCraftingRecipe;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.crafting.RecipeSerializer;
@@ -13,8 +13,11 @@ public class ModRecipes {
     public static final DeferredRegister<RecipeSerializer<?>> SERIALIZERS =
         DeferredRegister.create(Registries.RECIPE_SERIALIZER, XCraftableFeather.MODID);
 
-    public static final DeferredHolder<RecipeSerializer<?>, RecipeSerializer<CaneFibersRecipe>> CANE_FIBERS =
-        SERIALIZERS.register("cane_fibers", () -> CaneFibersRecipe.SERIALIZER);
+    public static final DeferredHolder<RecipeSerializer<?>, RecipeSerializer<ToolCraftingRecipe>> TOOL_SHAPELESS =
+        SERIALIZERS.register(
+            "tool_shapeless",
+            () -> new RecipeSerializer<>(ToolCraftingRecipe.CODEC, ToolCraftingRecipe.STREAM_CODEC)
+        );
 
     public static void register(IEventBus bus) {
         SERIALIZERS.register(bus);

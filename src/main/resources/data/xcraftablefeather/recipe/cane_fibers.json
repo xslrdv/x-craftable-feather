@@ -1,3 +1,12 @@
 {
-  "type": "xcraftablefeather:cane_fibers"
+  "type": "xcraftablefeather:tool_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:tools/shear",
+    "minecraft:sugar_cane"
+  ],
+  "result": {
+    "id": "xcraftablefeather:cane_fibers",
+    "count": 1
+  }
 }
